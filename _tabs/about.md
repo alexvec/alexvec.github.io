@@ -20,6 +20,7 @@ I am a very dedicated person, with excellent skills for communicating and workin
 
 # Education
 
-- Bachelor's Degree in Computer Science at Universitat Politecnica de Valencia (UPV). Erasmus programme at Technical University of Munich (TUM).
+- Bachelor's Degree in Computer Science at Universitat Politecnica de Valencia (UPV). 
+- One semester Erasmus programme at Technical University of Munich (TUM).
 - Offensive Security Certified Professional (OSCP)
 
