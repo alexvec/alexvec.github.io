@@ -12,7 +12,7 @@ image:
 
 When I first thought of obtaining the Offensive Security Certified Professional (OSCP) certification, I knew I had to first dominate the basic skills it requires. This includes a deep understanding of networking , operating systems (especially Linux), and scripting (bash and Python, at minimum). The OSCP does cover a lot of material on the basics, but I think having a strong foundational knowledge will really help to be less overwhelmed.
 
-Another question I used to have a lot before signing up for the OSCP was, how many machines should I solve first? In my case, I think I overprepared, and solved ~50 Hack The Box machines before even registering for the OSCP. In hindsight, I would say solving Easy/Medium machines is more than enough to feel ready for it.
+Another question I used to have a lot before signing up for the OSCP was, how many machines should I solve first? In my case, I think I overprepared, and solved ~50 Hack The Box machines from [TJ Null's list](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#) before even registering for the OSCP. In hindsight, I would say solving Easy/Medium machines is more than enough to feel ready for it.
 
 ## PWK Courseware and Labs
 
