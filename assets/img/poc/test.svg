@@ -1,2 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="window.location.replace('http://www.w3schools.com')">
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert('XSS')">
 </svg>
