@@ -1,5 +1,5 @@
 ---
-title:  "How I helped reduce churn for a multi-million dollar marketing agency."
+title:  "How I Helped Reduce Churn For A Multi-Million Dollar Marketing Agency."
 date: 2026-09-25 13:00:00 +0400
 media_subpath: /assets/img/reducing-churn-marketing-agency/
 categories: [case-studies]
