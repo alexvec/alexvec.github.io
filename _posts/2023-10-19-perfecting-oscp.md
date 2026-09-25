@@ -1,7 +1,7 @@
 ---
 title:  "Perfecting the OSCP with 110/100 score: Here's my journey"
 date: 2023-10-19 21:42:00 +0200
-img_path: /assets/img/perfecting-oscp/
+media_subpath: /assets/img/perfecting-oscp/
 categories: [certifications]
 tags: [oscp,exam]
 image:

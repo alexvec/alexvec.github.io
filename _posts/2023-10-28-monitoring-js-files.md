@@ -1,7 +1,7 @@
 ---
 title:  "Monitoring JavaScript files for bug hunting"
 date: 2023-10-28 10:42:00 +0200
-img_path: /assets/img/monitoring-js-files/
+media_subpath: /assets/img/monitoring-js-files/
 categories: [research]
 tags: [automation,monitoring]
 image:

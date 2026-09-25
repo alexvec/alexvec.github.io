@@ -1,7 +1,7 @@
 ---
 title:  "$4200+ in one month doing Bug Bounty - November Recap"
 date: 2023-11-30 15:20:00 +0200
-img_path: /assets/img/november-recap/
+media_subpath: /assets/img/november-recap/
 categories: [bugbounty]
 tags: [bugbounty,vulnerabilities]
 image:

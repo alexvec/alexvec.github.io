@@ -1,7 +1,7 @@
 ---
 title:  "MISSing Cache"
 date: 2023-05-22 09:00:00 +0100
-img_path: /assets/img/bypass-web-server-cache/
+media_subpath: /assets/img/bypass-web-server-cache/
 categories: [misconfigurations]
 tags: [cache,techniques,server,bypass]
 image:

@@ -1,7 +1,7 @@
 ---
 title:  "How I Outsmarted a Retail Giant's Queue System And Got International Media Exposure"
 date: 2023-10-16 22:57:00 +0200
-img_path: /assets/img/bypass-queue/
+media_subpath: /assets/img/bypass-queue/
 categories: [misconfigurations]
 tags: [queue,techniques,server,bypass]
 image:
